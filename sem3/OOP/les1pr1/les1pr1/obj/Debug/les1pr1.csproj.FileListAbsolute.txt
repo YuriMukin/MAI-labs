@@ -1,0 +1,13 @@
+D:\les1pr1\les1pr1\bin\Debug\les1pr1.exe.config
+D:\les1pr1\les1pr1\bin\Debug\les1pr1.exe
+D:\les1pr1\les1pr1\bin\Debug\les1pr1.pdb
+D:\les1pr1\les1pr1\obj\Debug\les1pr1.exe
+D:\les1pr1\les1pr1\obj\Debug\les1pr1.pdb
+D:\les1pr1\les1pr1\obj\Debug\les1pr1.csprojResolveAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\bin\Debug\les1pr1.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\bin\Debug\les1pr1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\bin\Debug\les1pr1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\obj\Debug\les1pr1.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\obj\Debug\les1pr1.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\obj\Debug\les1pr1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\les1pr1\les1pr1\obj\Debug\les1pr1.pdb

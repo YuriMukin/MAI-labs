@@ -1,0 +1,6 @@
+C:\Users\stud\Desktop\del\laba7rel\laba7rel\bin\Debug\laba7rel.exe.config
+C:\Users\stud\Desktop\del\laba7rel\laba7rel\bin\Debug\laba7rel.exe
+C:\Users\stud\Desktop\del\laba7rel\laba7rel\bin\Debug\laba7rel.pdb
+C:\Users\stud\Desktop\del\laba7rel\laba7rel\obj\Debug\laba7rel.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\del\laba7rel\laba7rel\obj\Debug\laba7rel.exe
+C:\Users\stud\Desktop\del\laba7rel\laba7rel\obj\Debug\laba7rel.pdb

@@ -1,0 +1,13 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\obj\Debug\laba4_2.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\obj\Debug\laba4_2.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\bin\Debug\laba4_2.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\bin\Debug\laba4_2.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\bin\Debug\laba4_2.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\obj\Debug\laba4_2.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba4_2\laba4_2\obj\Debug\laba4_2.pdb
+C:\Users\stud\Desktop\del\laba4_2\laba4_2\bin\Debug\laba4_2.exe.config
+C:\Users\stud\Desktop\del\laba4_2\laba4_2\obj\Debug\laba4_2.exe
+C:\Users\stud\Desktop\del\laba4_2\laba4_2\obj\Debug\laba4_2.pdb
+C:\Users\stud\Desktop\del\laba4_2\laba4_2\bin\Debug\laba4_2.exe
+C:\Users\stud\Desktop\del\laba4_2\laba4_2\bin\Debug\laba4_2.pdb
+C:\Users\stud\Desktop\del\laba4_2\laba4_2\obj\Debug\laba4_2.csprojResolveAssemblyReference.cache

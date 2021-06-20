@@ -1,0 +1,14 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\bin\Debug\laba_8.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\bin\Debug\laba_8.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\bin\Debug\laba_8.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\obj\Debug\laba_8.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\obj\Debug\laba_8.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\obj\Debug\laba_8.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba_8\laba_8\obj\Debug\laba_8.pdb
+D:\laba_8\laba_8\obj\Debug\laba_8.csprojAssemblyReference.cache
+D:\laba_8\laba_8\obj\Debug\laba_8.csproj.CoreCompileInputs.cache
+D:\laba_8\laba_8\obj\Debug\laba_8.exe
+D:\laba_8\laba_8\obj\Debug\laba_8.pdb
+D:\laba_8\laba_8\bin\Debug\laba_8.exe.config
+D:\laba_8\laba_8\bin\Debug\laba_8.exe
+D:\laba_8\laba_8\bin\Debug\laba_8.pdb

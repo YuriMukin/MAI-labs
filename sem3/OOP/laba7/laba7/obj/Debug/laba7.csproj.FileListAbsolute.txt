@@ -1,0 +1,10 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\bin\Debug\laba7.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\bin\Debug\laba7.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\obj\Debug\laba7.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\obj\Debug\laba7.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba7\laba7\obj\Debug\laba7.pdb
+C:\Users\stud\Desktop\del\laba7\laba7\bin\Debug\laba7.exe.config
+C:\Users\stud\Desktop\del\laba7\laba7\obj\Debug\laba7.exe
+C:\Users\stud\Desktop\del\laba7\laba7\obj\Debug\laba7.pdb

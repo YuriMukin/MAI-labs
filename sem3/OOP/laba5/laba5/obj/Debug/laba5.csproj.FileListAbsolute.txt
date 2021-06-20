@@ -1,0 +1,13 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\obj\Debug\laba5.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba5\laba5\obj\Debug\laba5.pdb
+C:\Users\stud\Desktop\del\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\stud\Desktop\del\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\stud\Desktop\del\laba5\laba5\obj\Debug\laba5.pdb
+C:\Users\stud\Desktop\del\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\stud\Desktop\del\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\stud\Desktop\del\laba5\laba5\obj\Debug\laba5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\blkas\Desktop\books & doc\sem3\ооп\laba1\laba1\obj\Debug\laba1.pdb
