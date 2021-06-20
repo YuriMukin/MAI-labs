@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Сферовой слой</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="parent">
+    <div class="child">
+        <p>Лабораторная работа №3<br>
+            Вариант 9.<br>
+            Группа М8О-304Б-18.<br>
+            Мукин Юрий Дмитриевич </p>
+    </div>
+    <div class="child">
+        <h1 id="header">Сферовой слой</h1>
+        <canvas id="scene3d" width="500" height="500"></canvas>
+    </div>
+
+</div>
+<div class="input">Точность<input id="approximation" step="2" type="range" min="8" max="50" value="16"></div>
+<div class="input">Высота<input id="height" step="0.1" type="range" min="0.1" max="0.9" value="0.5"></div>
+<div class="input">Радиус среза<input id="radius" step="0.1" type="range" min="0.1" max="1" value="0.8"></div>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\bin\Debug\laba1v2.exe.config
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\bin\Debug\laba1v2.exe
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\bin\Debug\laba1v2.pdb
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.csprojAssemblyReference.cache
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.Form1.resources
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.Properties.Resources.resources
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.csproj.GenerateResource.cache
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.csproj.CoreCompileInputs.cache
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.exe
+C:\Users\Sorjo\Desktop\books & doc\sem5\compGraf\laba1v2\laba1v2\obj\Debug\laba1v2.pdb
