@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laba6_MVC_V1._0.Form1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACApAAEAAADBAAACAAAwAABAgARABQAIAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.371" Collapsed="true" />
+  </Class>
+  <Class Name="laba6_MVC_V1._0.Form1Controll" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>Form1Controll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba6_MVC_V1._0.Form2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAIIAACAgAhEAAgCAAggCAAAgAABAgABABQAIAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="laba6_MVC_V1._0.Form2Controll" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAIAgEAAAAAAAAAAAAAACAAAQAAAAAIAAA=</HashCode>
+      <FileName>Form2Controll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba6_MVC_V1._0.model" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAgAAAAAAAAAgAAAAAAIIBAAAAwAgAAIAAAhA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba6_MVC_V1._0.PostfixNotationExpression" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAEAABAAAAAAAAAAAAACAAAAgAAQAAAA=</HashCode>
+      <FileName>PostfixNotationExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba6_MVC_V1._0.Program" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba6_MVC_V1._0.Properties.Resources" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba6_MVC_V1._0.Properties.Settings" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="laba6_MVC_V1._0.IObserver" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

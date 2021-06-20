@@ -1,0 +1,10 @@
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q-learning with a model.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q_learning_with_a_model.Form1.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q_learning_with_a_model.Properties.Resources.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q-learning with a model.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q-learning with a model.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\bin\Debug\Q-learning with a model.exe.config
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\bin\Debug\Q-learning with a model.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\bin\Debug\Q-learning with a model.pdb
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q-learning with a model.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\Q-learning with a model\Q-learning with a model\obj\Debug\Q-learning with a model.pdb

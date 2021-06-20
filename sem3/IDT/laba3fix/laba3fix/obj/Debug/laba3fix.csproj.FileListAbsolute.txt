@@ -1,0 +1,12 @@
+D:\иср\laba3fix\laba3fix\bin\Debug\laba3fix.exe.config
+D:\иср\laba3fix\laba3fix\bin\Debug\laba3fix.exe
+D:\иср\laba3fix\laba3fix\bin\Debug\laba3fix.pdb
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.csprojAssemblyReference.cache
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.Form1.resources
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.Properties.Resources.resources
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.worc.resources
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.csproj.GenerateResource.cache
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.csproj.CoreCompileInputs.cache
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.exe
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.pdb
+D:\иср\laba3fix\laba3fix\obj\Debug\laba3fix.Form2.resources

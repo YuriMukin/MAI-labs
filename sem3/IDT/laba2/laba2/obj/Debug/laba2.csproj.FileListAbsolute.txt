@@ -1,0 +1,36 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.Form1.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.SuNaIn.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba2\laba2\obj\Debug\laba2.pnain.resources
+D:\иср\laba2\laba2\bin\Debug\laba2.exe.config
+D:\иср\laba2\laba2\obj\Debug\laba2.exe
+D:\иср\laba2\laba2\obj\Debug\laba2.pdb
+D:\иср\laba2\laba2\bin\Debug\laba2.exe
+D:\иср\laba2\laba2\bin\Debug\laba2.pdb
+D:\иср\laba2\laba2\obj\Debug\laba2.Form1.resources
+D:\иср\laba2\laba2\obj\Debug\laba2.pnain.resources
+D:\иср\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+D:\иср\laba2\laba2\obj\Debug\laba2.SuNaIn.resources
+D:\иср\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.Cache
+D:\иср\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+D:\иср\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\bin\Debug\laba2.exe.config
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\bin\Debug\laba2.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\bin\Debug\laba2.pdb
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.Form1.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.pnain.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.SuNaIn.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba2\laba2\obj\Debug\laba2.pdb

@@ -1,0 +1,14 @@
+D:\иср\laba5AF\lab5\lab5\bin\Debug\lab5.exe.config
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.Form1.resources
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.vorkingProcess.resources
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\иср\laba5AF\lab5\lab5\bin\Debug\lab5.exe
+D:\иср\laba5AF\lab5\lab5\bin\Debug\lab5.pdb
+D:\иср\laba5AF\lab5\lab5\bin\Debug\FactoryLibrary.dll
+D:\иср\laba5AF\lab5\lab5\bin\Debug\FactoryLibrary.pdb
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.csproj.CopyComplete
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.exe
+D:\иср\laba5AF\lab5\lab5\obj\Debug\lab5.pdb

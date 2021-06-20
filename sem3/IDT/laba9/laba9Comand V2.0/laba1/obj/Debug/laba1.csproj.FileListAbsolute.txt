@@ -1,0 +1,34 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\ооп\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.pdb
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\bin\Debug\laba1.exe.config
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.exe
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.pdb
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\bin\Debug\laba1.exe
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\bin\Debug\laba1.pdb
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.Form1.resources
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+D:\Мукин Юрий М8О-204Б-18\иср\laba1\laba1\obj\Debug\laba1.info.resources
+D:\иср\laba1\laba1\bin\Debug\laba1.exe.config
+D:\иср\laba1\laba1\obj\Debug\laba1.exe
+D:\иср\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba1\laba1\obj\Debug\laba1.info.resources

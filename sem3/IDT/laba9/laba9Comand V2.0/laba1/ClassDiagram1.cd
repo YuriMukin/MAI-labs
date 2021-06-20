@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="laba1.ButtonRevers" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAAAAIBAILAAAAAoAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>auxiliary components\button\ButtonRevers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.helper" Collapsed="true">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>auxiliary components\helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.matrix" Collapsed="true">
+    <Position X="25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABFAEgAABAAAAAAAYhAAgAAASAAAAAAAAAAAABKAAAA=</HashCode>
+      <FileName>auxiliary components\matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.preprocessingCalc" Collapsed="true">
+    <Position X="20.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAABALAAAAAgAAAAAAACEAAAAAAAAACAA=</HashCode>
+      <FileName>auxiliary components\preprocessing\preprocessingCalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.preprocessingDet" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAABALAAAAAgAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>auxiliary components\preprocessing\preprocessingDet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.TextChangeTBM1" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAAACAAAAACAA=</HashCode>
+      <FileName>auxiliary components\Text\TextChangeTBM1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.TextChangeTBM2" Collapsed="true">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAAACAAAAACAA=</HashCode>
+      <FileName>auxiliary components\Text\TextChangeTBM2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.TextChangeTBN1" Collapsed="true">
+    <Position X="22.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAAACAAAAACAA=</HashCode>
+      <FileName>auxiliary components\Text\TextChangeTBN1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.TextChangeTBN2" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAAACAAAAACAA=</HashCode>
+      <FileName>auxiliary components\Text\TextChangeTBN2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.visualizer" Collapsed="true">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAACAA=</HashCode>
+      <FileName>auxiliary components\visualizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.addition" Collapsed="true">
+    <Position X="21" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>comands\addition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.Comand" Collapsed="true">
+    <Position X="24.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>comands\Comand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.determinant" Collapsed="true">
+    <Position X="27.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>comands\determinant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.multiplication" Collapsed="true">
+    <Position X="23.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>comands\multiplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="laba1.transpose" Collapsed="true">
+    <Position X="25.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>comands\transpose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

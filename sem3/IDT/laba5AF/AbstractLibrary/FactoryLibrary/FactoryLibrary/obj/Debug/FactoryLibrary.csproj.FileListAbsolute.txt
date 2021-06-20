@@ -1,0 +1,10 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\AbstractLibrary\FactoryLibrary\FactoryLibrary\bin\Debug\FactoryLibrary.dll
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\AbstractLibrary\FactoryLibrary\FactoryLibrary\bin\Debug\FactoryLibrary.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\AbstractLibrary\FactoryLibrary\FactoryLibrary\obj\Debug\FactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\AbstractLibrary\FactoryLibrary\FactoryLibrary\obj\Debug\FactoryLibrary.dll
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\AbstractLibrary\FactoryLibrary\FactoryLibrary\obj\Debug\FactoryLibrary.pdb
+D:\иср\laba5AF\AbstractLibrary\FactoryLibrary\FactoryLibrary\bin\Debug\FactoryLibrary.dll
+D:\иср\laba5AF\AbstractLibrary\FactoryLibrary\FactoryLibrary\bin\Debug\FactoryLibrary.pdb
+D:\иср\laba5AF\AbstractLibrary\FactoryLibrary\FactoryLibrary\obj\Debug\FactoryLibrary.dll
+D:\иср\laba5AF\AbstractLibrary\FactoryLibrary\FactoryLibrary\obj\Debug\FactoryLibrary.pdb
+D:\иср\laba5AF\AbstractLibrary\FactoryLibrary\FactoryLibrary\obj\Debug\FactoryLibrary.csproj.CoreCompileInputs.cache

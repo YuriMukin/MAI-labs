@@ -1,0 +1,28 @@
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\bin\Debug\laba1.exe.config
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\bin\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\bin\Debug\laba1.pdb
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba9Comand.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba1.laba9Comand.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba9Comand.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba9Comand.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba1.exe
+C:\Users\blkas\Desktop\книги,документы\sem3\иср\laba9Comand\laba1\obj\Debug\laba1.pdb
+D:\иср\laba9Comand\laba1\bin\Debug\laba1.exe.config
+D:\иср\laba9Comand\laba1\obj\Debug\laba1.exe
+D:\иср\laba9Comand\laba1\obj\Debug\laba1.pdb
+D:\иср\laba9Comand\laba1\bin\Debug\laba1.exe
+D:\иср\laba9Comand\laba1\bin\Debug\laba1.pdb
+D:\иср\laba9Comand\laba1\obj\Debug\laba9Comand.csprojResolveAssemblyReference.cache
+D:\иср\laba9Comand\laba1\obj\Debug\laba1.laba9Comand.resources
+D:\иср\laba9Comand\laba1\obj\Debug\laba1.Properties.Resources.resources
+D:\иср\laba9Comand\laba1\obj\Debug\laba9Comand.csproj.GenerateResource.Cache
+D:\иср\laba9Comand — копия\laba1\bin\Debug\laba1.exe.config
+D:\иср\laba9Comand — копия\laba1\obj\Debug\laba1.exe
+D:\иср\laba9Comand — копия\laba1\obj\Debug\laba1.pdb
+D:\иср\laba9Comand — копия\laba1\obj\Debug\laba9Comand.csprojResolveAssemblyReference.cache
+D:\иср\laba9Comand — копия\laba1\obj\Debug\laba1.laba9Comand.resources
+D:\иср\laba9Comand — копия\laba1\obj\Debug\laba1.Properties.Resources.resources
+D:\иср\laba9Comand — копия\laba1\obj\Debug\laba9Comand.csproj.GenerateResource.Cache
+D:\иср\laba9Comand — копия\laba1\bin\Debug\laba1.exe
+D:\иср\laba9Comand — копия\laba1\bin\Debug\laba1.pdb

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Q_learning_with_a_model.controller" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Form1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAABRQCAgAAFgoFGIAFgCAAKAQABAUARADwQMAEA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Q_learning_with_a_model.model" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAIgAAAAAAgAAIIAAIAAIIBAAAA0AgAAAAAAAA=</HashCode>
+      <FileName>model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Program" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Enemy" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>sources\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Environment" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAACAAAQAACAAAAAAAACAAAQABgAAAAAIIII=</HashCode>
+      <FileName>sources\Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Protagonist" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAlAAACAAAAAAAAAAAIAACAAIACAAAAAAICAAAABAI=</HashCode>
+      <FileName>sources\Protagonist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Q_model" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAAAAAAAAAAAAAAEAAAAAAQAAAAAQAEAAAAA=</HashCode>
+      <FileName>sources\Q-model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.StackExtension" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAAACAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sources\StackExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Unit" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAgAAIAAAAAAAAAAAEAggAAAAAAA=</HashCode>
+      <FileName>sources\unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Properties.Resources" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Q_learning_with_a_model.Properties.Settings" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Q_learning_with_a_model.IObserver" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

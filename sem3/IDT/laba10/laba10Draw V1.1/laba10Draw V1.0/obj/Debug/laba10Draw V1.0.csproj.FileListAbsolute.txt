@@ -1,0 +1,30 @@
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.exe.config
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.pdb
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw_V1._0.Form1.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw_V1._0.Properties.Resources.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.pdb
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.exe.config
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.exe
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.pdb
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.exe
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.pdb
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw_V1._0.Form1.resources
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw_V1._0.Properties.Resources.resources
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csproj.GenerateResource.Cache
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csprojAssemblyReference.cache
+D:\иср\laba10Draw V1.0\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.exe.config
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\bin\Debug\laba10Draw V1.0.pdb
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csprojAssemblyReference.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw_V1._0.Form1.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw_V1._0.Properties.Resources.resources
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csproj.GenerateResource.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.csproj.CoreCompileInputs.cache
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.exe
+C:\Users\blkas\Desktop\books & doc\sem3\иср\laba10\laba10Draw V1.1\laba10Draw V1.0\obj\Debug\laba10Draw V1.0.pdb
